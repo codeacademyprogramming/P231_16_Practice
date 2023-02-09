@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Tasks
 {
-    internal class Class1
+    internal class Department
     {
     }
 }
