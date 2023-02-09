@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuHz2fQpbLsBYQhfawo2VjiK8g0IuaKHtFbONH2Uvff/5NrqBOmQtP1690Fc4BOJWL4IZbDjNLNQq04uM7rx+Q==",
+  "dgSpecHash": "IWQEjFL8sxTQRjyZ+mOQJIolrFsal/FmGlvKptaeTw6nB40NcSqFnLl3YQUPg3C7H/X7D/u0HBk2XORlrlEK+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\16. 09-02-2023\\09020223\\Tasks\\Tasks.csproj",
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\16. 09-02-2023\\P231_16_Practice\\09020223\\Tasks\\Tasks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
